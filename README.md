@@ -1,5 +1,5 @@
 # FOSSGIS-Random-forest
-Comparison of two Supervised Classification Methods and Comparison of two (temporal) different datasets (Heidelberg OpenStreetMap data 2015/2020; Sentinel data 2015/2020).
+Comparison of two Supervised Classification Methods (Grass GIS: r.learn.ml/ SAGA GIS: ViGrA) and Comparison of two (temporal) different datasets (Heidelberg OpenStreetMap data 2015/2020; Sentinel data 2015/2020).
 
 
 <h2>Preparation</h2>
