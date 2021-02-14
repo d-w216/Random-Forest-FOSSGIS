@@ -66,7 +66,7 @@ Adjust __wd_path__ and specify path to folder
 
 __Note:__ Do not change the folder structure!
 
-__Note:__ According to the targeted analysis (year) change the year variable.
+__Note:__ According to the targeted analysis (year) change the *year* variable.
 
 __Note:__ The process will take a few minutes. Depending on your hardware, you might want to adjust some parameters: 
 - r.random_() -> try to lower or increase the parameter "npoints" (number of points to be extracted)
