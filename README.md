@@ -42,6 +42,8 @@ Geojson   - run batch [*osmQueries_2015*] script in Grass Shell.
 
 Geojson   - run batch [*osmQueries_2020*] script in Grass Shell. 
 
+If there are problems with the curl queries at ohsomeApi please contact the operators:https://docs.ohsome.org/ohsome-api/v1/.
+
 GeoTIff - Download raster data from *Heibox*.  
 
 Heibox: 
